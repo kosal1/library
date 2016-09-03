@@ -1,0 +1,105 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   '–g',
+1 verbose cli   'bower' ]
+2 info using npm@2.15.9
+3 info using node@v4.5.0
+4 verbose install initial load of C:\xampp\htdocs\codeigniter\School-Managerment\static\package.json
+5 warn package.json School-Managerment@0.0.0 No description
+6 warn package.json School-Managerment@0.0.0 No repository field.
+7 warn package.json School-Managerment@0.0.0 No README data
+8 warn package.json School-Managerment@0.0.0 No license field.
+9 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\browser-sync\package.json
+10 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\browserslist\package.json
+11 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\caniuse-db\package.json
+12 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp\package.json
+13 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-autoprefixer\package.json
+14 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-concat\package.json
+15 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-cssmin\package.json
+16 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-duration\package.json
+17 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-file-sync\package.json
+18 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-filter\package.json
+19 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-htmlmin\package.json
+20 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-ignore\package.json
+21 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-imagemin\package.json
+22 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-jshint\package.json
+23 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-ng-annotate\package.json
+24 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-props\package.json
+25 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-rename\package.json
+26 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-rev\package.json
+27 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-rev-all\package.json
+28 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-sass\package.json
+29 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-sourcemaps\package.json
+30 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-uglify\package.json
+31 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-usemin\package.json
+32 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-util\package.json
+33 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\gulp-watch\package.json
+34 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\minimist\package.json
+35 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\normalize-range\package.json
+36 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\num2fraction\package.json
+37 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\postcss-value-parser\package.json
+38 verbose installManyTop reading scoped package data from C:\xampp\htdocs\codeigniter\School-Managerment\static\node_modules\proxy-middleware\package.json
+39 info package.json gulp-rename@1.2.2 No license field.
+40 verbose readDependencies loading dependencies from C:\xampp\htdocs\codeigniter\School-Managerment\static\package.json
+41 silly cache add args [ '–g', null ]
+42 verbose cache add spec –g
+43 silly cache add args [ 'bower', null ]
+44 verbose cache add spec bower
+45 silly cache add parsed spec Result {
+45 silly cache add   raw: '–g',
+45 silly cache add   scope: null,
+45 silly cache add   name: null,
+45 silly cache add   rawSpec: '–g',
+45 silly cache add   spec: 'C:\\xampp\\htdocs\\codeigniter\\School-Managerment\\static\\–g',
+45 silly cache add   type: 'local' }
+46 silly cache add parsed spec Result {
+46 silly cache add   raw: 'bower',
+46 silly cache add   scope: null,
+46 silly cache add   name: 'bower',
+46 silly cache add   rawSpec: '',
+46 silly cache add   spec: 'latest',
+46 silly cache add   type: 'tag' }
+47 silly addNamed bower@latest
+48 verbose addNamed "latest" is being treated as a dist-tag for bower
+49 info addNameTag [ 'bower', 'latest' ]
+50 silly mapToRegistry name bower
+51 silly mapToRegistry using default registry
+52 silly mapToRegistry registry https://registry.npmjs.org/
+53 silly mapToRegistry data Result {
+53 silly mapToRegistry   raw: 'bower',
+53 silly mapToRegistry   scope: null,
+53 silly mapToRegistry   name: 'bower',
+53 silly mapToRegistry   rawSpec: '',
+53 silly mapToRegistry   spec: 'latest',
+53 silly mapToRegistry   type: 'tag' }
+54 silly mapToRegistry uri https://registry.npmjs.org/bower
+55 verbose addNameTag registry:https://registry.npmjs.org/bower not in flight; fetching
+56 error addLocal Could not install C:\xampp\htdocs\codeigniter\School-Managerment\static\–g
+57 verbose request uri https://registry.npmjs.org/bower
+58 verbose request no auth needed
+59 info attempt registry request try #1 at 10:10:19 AM
+60 verbose request id 376e1b0edee248fa
+61 http request GET https://registry.npmjs.org/bower
+62 info retry will retry, error on last attempt: TypeError: The header content contains invalid characters
+63 info attempt registry request try #2 at 10:10:29 AM
+64 http request GET https://registry.npmjs.org/bower
+65 info retry will retry, error on last attempt: TypeError: The header content contains invalid characters
+66 info attempt registry request try #3 at 10:11:29 AM
+67 http request GET https://registry.npmjs.org/bower
+68 verbose stack Error: ENOENT: no such file or directory, open 'C:\xampp\htdocs\codeigniter\School-Managerment\static\–g'
+68 verbose stack     at Error (native)
+69 verbose cwd C:\xampp\htdocs\codeigniter\School-Managerment\static
+70 error Windows_NT 10.0.10240
+71 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "–g" "bower"
+72 error node v4.5.0
+73 error npm  v2.15.9
+74 error path C:\xampp\htdocs\codeigniter\School-Managerment\static\–g
+75 error code ENOENT
+76 error errno -4058
+77 error syscall open
+78 error enoent ENOENT: no such file or directory, open 'C:\xampp\htdocs\codeigniter\School-Managerment\static\–g'
+78 error enoent This is most likely not a problem with npm itself
+78 error enoent and is related to npm not being able to find a file.
+79 verbose exit [ -4058, true ]
